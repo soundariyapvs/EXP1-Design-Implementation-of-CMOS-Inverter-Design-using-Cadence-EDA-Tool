@@ -5,16 +5,12 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
 technology, including the design process, layout, and simulation techniques.
 
 ### Tools Required:
-```
 •	Personal Computer
 •	Cadence Virtuoso Software
-```
 ### Circuit Diagram:
 ![ex1](https://github.com/user-attachments/assets/9cd5bb79-0ed7-4192-a96d-8ca476809702)
 
-
 ### Schematic Simulation:
-```
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 1.Right Click and open the terminal window
 2.Type the following commands as follows and press enter.
@@ -52,14 +48,10 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-```
 ![WhatsApp Image 2024-11-20 at 09 38 49_c2ae54f3](https://github.com/user-attachments/assets/05de0c11-16dd-4e69-a199-a65922704ff1)
 
-
-
- 
 iii)	Creating the Symbol for schematic Cell view
-```
+
 •	In the schematic window, execute 
 	Create – Cell view – From Cell view
 	The cell view from cell view window appears
@@ -71,15 +63,10 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
-```
-
 
 ![WhatsApp Image 2024-11-20 at 09 38 48_814625eb](https://github.com/user-attachments/assets/f5014ceb-e0ef-4831-a49c-6d262e12a78c)
 
-
-
 iv)	Creating the new test cell view
-```
 •	Go to CIW window, Execute File-New-Cell view
 	Setup the new file form
 	Library: Select the one you created.
@@ -87,14 +74,9 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-```
 ![WhatsApp Image 2024-11-20 at 09 38 49_179614ba](https://github.com/user-attachments/assets/cd212eed-49a1-4a4a-a2f8-202d87bc7d65)
-
-
-
  
 ### Analog simulation by SPECTRE.
-```
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
 	Execute Setup—Simulation/directory/Host A new window opens
@@ -104,7 +86,7 @@ iv)	Creating the new test cell view
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
-```
+
  ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
 
 ### For Transient Analysis Settings and Output
