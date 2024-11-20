@@ -1,4 +1,4 @@
-Ex No: 01     Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools   
+# Ex.No:01 Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools   
 
 Aim:
 To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse its electrical characteristics, and understand the fundamental principles of CMOS technology, including the design process, layout, and simulation techniques.
@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
+![WhatsApp Image 2024-11-20 at 09 38 49_c2ae54f3](https://github.com/user-attachments/assets/05de0c11-16dd-4e69-a199-a65922704ff1)
+
 
 
  
@@ -64,7 +65,10 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
+
+
+![WhatsApp Image 2024-11-20 at 09 38 48_814625eb](https://github.com/user-attachments/assets/f5014ceb-e0ef-4831-a49c-6d262e12a78c)
+
 
 
 iv)	Creating the new test cell view
@@ -76,7 +80,9 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+
+![WhatsApp Image 2024-11-20 at 09 38 49_179614ba](https://github.com/user-attachments/assets/cd212eed-49a1-4a4a-a2f8-202d87bc7d65)
+
 
 
  
@@ -95,14 +101,18 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
  
  
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+
+![WhatsApp Image 2024-11-20 at 09 39 08_bd6360df](https://github.com/user-attachments/assets/40e54ba8-e1c0-477a-b057-4f764c380352)
+
 
  For DC Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+
+![WhatsApp Image 2024-11-20 at 09 38 48_50998d30](https://github.com/user-attachments/assets/0a4c4ef6-4f85-4579-8097-4565a47efbe1)
+
 
  
 
